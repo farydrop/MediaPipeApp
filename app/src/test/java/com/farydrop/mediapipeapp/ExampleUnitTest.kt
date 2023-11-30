@@ -1,4 +1,4 @@
-package org.slovonavsezaim.mediapipeapp
+package com.farydrop.mediapipeapp
 
 import org.junit.Test
 

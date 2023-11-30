@@ -1,4 +1,4 @@
-package org.slovonavsezaim.mediapipeapp
+package com.farydrop.mediapipeapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
